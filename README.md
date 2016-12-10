@@ -4,7 +4,7 @@ Docker container based on Alpine Linux with OpenSSH and autossh.
 
 I use it to do remote port forwarding from a container. 
 
-Usage: 
+Usage (from Docker Compose): 
 
 ```yaml 
 
